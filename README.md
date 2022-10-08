@@ -7,5 +7,3 @@
  * Apache Tomcat과 MySQL을 이용해 로컬 환경에 구축한 데이터베이스와 연동되도록 만들었습니다.
 
  * 회원기능을 비롯해 게시판을 제외한 나머지 기능은 삭제하였습니다.
-
- * Eclipse IDE for Enterprise Java Developers의 workspace 형태로 파일을 올렸습니다.
